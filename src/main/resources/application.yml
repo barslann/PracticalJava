@@ -1,0 +1,11 @@
+server:
+  port: 7070
+
+
+spring:
+  main:
+    banner-mode: off
+
+logging:
+    file:
+      name: log/practical-java.log
